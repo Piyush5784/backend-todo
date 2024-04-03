@@ -24,7 +24,7 @@ npx prisma init
 ``
 docker run -e POSTGRES_PASSWORD=<your_pass> -d -p 5432:5432 postgres 
 ``
-### Make sure you change the environment string with your Docker string
+### Make sure you change the connection string with your postgres string
 
 # Apply migrations to set up the database schema
 ``
