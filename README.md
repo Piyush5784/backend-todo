@@ -12,8 +12,8 @@ npm install prisma typescript ts-node @types/node --save-dev
 ``
 npx tsc --init
 ``
-## Change the 'rootDir' setting to 'src'
-## Change the 'outDir' setting to 'dist'
+#### Change the 'rootDir' setting to 'src'
+#### Change the 'outDir' setting to 'dist'
 
 # Initialize Prisma configuration
 ``
